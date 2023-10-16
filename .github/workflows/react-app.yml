@@ -13,6 +13,12 @@ jobs:
     
     steps:
     - uses: actions/checkout@v3
+      with:
+        persist-credentials: false
+
+    - uses: actions/setup-node@v1
+      with:
+        node-version: 16.x
 
     - name: Build and Deploy React app to GitHub Pages
       uses: omkartapale/react-deployment-gh-pages@v1.0.0
