@@ -6,7 +6,7 @@ function OrganizationsList() {
 
     const fetchJSON = async () => {
         try {
-            const d = await fetch("./data.json");
+            const d = await fetch("./data/organizations.json");
             setData(d.json());
         } catch {
             setData({});
