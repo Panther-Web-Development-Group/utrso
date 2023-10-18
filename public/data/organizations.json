@@ -1,5 +1,82 @@
 {
-    "Programming Club": {
-        "official_name": "Programming Club @ GSU"
+    "ProgClub": {
+        "official_name": "Programming Club @ GSU",
+        "aliases": [],
+        "pin_suffix": "progclubgsu",
+        "logo": "",
+        "description": "Programming Club is the perfect club for meeting other people who love to code! We host competitive programming session, mock technical interviews to help sharpen your interview skills, and the occasional social event to foster community. We pride ourselves on creating events that programmers from all levels can enjoy whether you just started your programming journey, or you’re a graduate student looking for a challenge and community.",
+        "discord_suffix": ""
+    },
+    "Computer Science Club": {
+        "official_name": "Computer Science Club at GSU",
+        "aliases": [],
+        "pin_suffix": "computer-science-club",
+        "logo": "",
+        "description": "The Computer Science Club at Georgia State University, founded in December 2010, is a community of students interested in spending time with other like-minded individuals. The club hosts guest speakers, lectures, and builds group projects during the academic year but thrives mainly on its social utility. If you're interested, come along!",
+        "discord_suffix": ""
+    },
+    "PantherWeb": {
+        "official_name": "Panther Web Development Group",
+        "aliases": [],
+        "pin_suffix": "pantherweb",
+        "logo": "",
+        "description": "The Panther Web Development Group, also known as PantherWeb, is a student organization that encourages students of all majors and backgrounds to learn about the creative part of web development. PantherWeb is a space for creating student-led collaborative projects, such as websites and mobile applications, which allow students to expand their portfolios.",
+        "discord_suffix": ""
+    },
+    "Student Data Corps": {
+        "official_name": "Student Data Corps at GSU",
+        "aliases": [],
+        "pin_suffix": "dataclub",
+        "logo": "",
+        "description": "Data science is a relatively new field and more careers that were not seen as “data” careers are requiring data skills. The Student Data Corps at GSU is open to students from all majors and data-skill levels who want to build their data skills, work in data-related careers, and/or support the growth of data-literacy on campus.",
+        "discord_suffix": ""
+    },
+    "Girls++": {
+        "official_name": "Girls++ ACM-W",
+        "aliases": [],
+        "pin_suffix": "girls_plus_plus",
+        "logo": "",
+        "description": "We support, celebrate, and advocate for the full engagement of women and their allies in all aspects of the computing field by providing a wide range of events and working in the larger community to advance the contributions of women in STEM.",
+        "discord_suffix": ""
+    },
+    "Ethical Hacking Club": {
+        "official_name": "Ethical Hacking Club at GSU",
+        "aliases": [],
+        "pin_suffix": "ehack",
+        "logo": "",
+        "description": "We aim to teach others practical and actual hacking skills through labs, simulations, workshops and lectures that push away from the traditional hand held lessons as seen through higher education and instead focus on a more practical methodology that inspires individual to seek out their own solutions by sharpening their skillsets through active engaging.",
+        "discord_suffix": ""
+    },
+    "Girls Who Code": {
+        "official_name": "Girls Who Code College Loop at GSU",
+        "aliases": [],
+        "pin_suffix": "girlswhocode",
+        "logo": "",
+        "description": "Girls Who Code at GSU will center around challenges that will follow five resolutions which are volunteering, sisterhood, creating, collaborating, and inspiring. GWC will connect with women and non-binary individuals in Computer Science fields, build community, expand their Computer Science experiences, and use community organizing tactics to empower women in Computer Science on college campuses. To further promote retention and success in the field, College Loops will be a group that seeks networking and sisterhood. To do this, we will do stimulating activities that make us imagine a new way of thinking about Computer Science. All genders are welcome!",
+        "discord_suffix": ""
+    },
+    "PantherDev": {
+        "official_name": "PantherDev Game Development Club",
+        "aliases": [],
+        "pin_suffix": "pantherdev-game-development-club",
+        "logo": "",
+        "description": "Our club has a range of members with different skills and experience levels working together towards our main goal: Making Games! At the beginning of the semester members are encouraged to pitch a game to our leadership team and, if selected, become a team lead, facilitating the completion of their concept by the end of the semester. Throughout the semester, leads are responsible for presenting three project updates and three milestones. Project updates are casual Keynote style presentations highlighting their team’s success and progression. This allows time to go deep into the process of game development and show off and credit stuff that you wouldn’t be able to see in a build. Milestones are showcase-style playtesting opportunities where teams make a playable build to catch bugs and quality-of-life issues. We usually churn out at least 3-6 games a semester which is great for leadership experience, portfolio building, and real-life game development experience! A typical meeting will host around 20 to 50 people in person and 10-15 viewers via our Twitch stream.",
+        "discord_suffix": ""
+    },
+    "Robotics Club": {
+        "official_name": "Robotics Club @ GSU",
+        "aliases": [],
+        "pin_suffix": "robotics",
+        "logo": "",
+        "description": "Students will work as a team to design, prototype and build a semi- or fully automated robotic system to perform a specified user-defined function.  The organization will enhance students' learning and understanding of robotics by being able to work hands on and apply the knowledge they have. We will compete in competitions such as the DJI’s RoboMaster NA Competition, Vex U and the ATMAE 2022 Student Division Robotics Competition competing against other college undergraduates.  We not only will create our own robot, but we will also give back to our community with outreach such as mentoring other local high school robotic teams, as well as work with local businesses to gain funding (because robots are surprisingly expensive). No experience is required, but coders, tinkerers, and creative thinkers will be needed.",
+        "discord_suffix": ""
+    },
+    "Cybersecurity Club": {
+        "official_name": "Cybersecurity Club at GSU",
+        "aliases": [],
+        "pin_suffix": "cysecclub",
+        "logo": "",
+        "description": "The Cybersecurity Club is THE club to be in to learn about the field of cybersecurity! Join us as we grow our skills through guest appearances of experts in the field, club-wide projects for people of all skill levels, and the occasional competition/CTF in order to get nationally recognized! We host weekly meetings in order to engage you on the tools, techniques, and resources needed to lead a successful career in cybersecurity. We are one big community and we would be honored if you could join us!",
+        "discord_suffix": ""
     }
 }
