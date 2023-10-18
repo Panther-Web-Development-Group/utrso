@@ -29,6 +29,7 @@ function OrganizationsList() {
                         aliases={target["aliases"]}
                         pinSuffix={target["pin_suffix"]}
                         logo={target["logo"]}
+                        description={target["description"]}
                         discordSuffix={target["discord_suffix"]}
                         id={`organization-${index + 1}`} />);
                 })}

@@ -30,7 +30,7 @@ function OrganizationItem({
                 <div className="org-heading">
                     <h3 className="org-official-name">
                         <a href={`https://pin.gsu.edu/organization/${pinSuffix}`} className="org-pin-link">{officialName}</a>
-                    </h3>,
+                    </h3>
                     {aliases && Array.from(aliases).length > 0 && 
                         <h4 className="org-aliases">
                             <span className="org-aka">AKA </span>
