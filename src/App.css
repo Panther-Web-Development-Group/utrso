@@ -9,13 +9,19 @@
 
 #header .logo {
     margin-block: 0.3rem;
+    font-family: Exo, system-ui, Helvetica, Arial, sans-serif;
     font-size: 2.3rem;
     font-weight: bold;
     text-transform: uppercase;
 }
 
 #header .logo > .logo-link {
+    display: flex;
+    align-items: center;
     padding: 0.5rem 0.8rem;
+    gap: 0.05rem;
 }
 
-#header .logo > .logo-link {}
+#header .logo > .logo-link > .logo-letter {
+    vertical-align: middle;
+}
