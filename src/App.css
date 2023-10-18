@@ -1,0 +1,14 @@
+#header {
+    background-color: rgb(34 34 54 / 0.9);
+    color: rgb(250 250 250 / 0.9);
+    display: flex;
+    justify-content: space-between;
+    padding: 0.3rem;
+}
+
+#header .logo {
+    margin-block: 0.3rem;
+    font-size: 2.3rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}

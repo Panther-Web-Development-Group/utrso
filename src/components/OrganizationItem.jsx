@@ -33,7 +33,7 @@ function OrganizationItem({
                     </h3>
                     {aliases && Array.from(aliases).length > 0 && 
                         <h4 className="org-aliases">
-                            <span className="org-aka">AKA </span>
+                            <span className="org-aka">aka </span>
                             <span className="org-aliases-text">{aliasString}</span>
                         </h4>}
                 </div>

@@ -21,7 +21,7 @@ function App() {
 				</p>
 			</Section>
 			<Section title="Our Founder" id="founder"></Section>
-			<Section title="Organization" id="organizations">
+			<Section title="Organizations" id="organizations">
 				<OrganizationsList />
 			</Section>
 		</AppLayout>
