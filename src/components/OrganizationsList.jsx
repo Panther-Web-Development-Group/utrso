@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-// import OrganizationItem from "./OrganizationItem";
+import OrganizationItem from "./OrganizationItem";
 
 function OrganizationsList() {
     const [data, setData] = useState({});
@@ -19,8 +19,19 @@ function OrganizationsList() {
 
     return (
         <>
-            {JSON.stringify(data)}
             <ul className="organization-list" id="organization-list">
+                {Object.keys(data).map((name, index) => {
+                    const target = data[name];
+                    return (<OrganizationItem
+                        key={name}
+                        name={name}
+                        officialName={target["official_name"]}
+                        aliases={target["aliases"]}
+                        pinSuffix={target["pin_suffix"]}
+                        logo={target["logo"]}
+                        discordSuffix={target["discord_suffix"]}
+                        id={`organization-${index + 1}`} />);
+                })}
             </ul>
         </>
         
